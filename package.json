@@ -1,0 +1,28 @@
+{
+  "name": "rgbledbar",
+  "version": "1.0.0",
+  "description": "NodeJS RGB LED Bar lib for the TLC59116.",
+  "main": "src/rgbledbar.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BioBoost/rgbledbar.git"
+  },
+  "keywords": [
+    "rgb",
+    "led",
+    "bar",
+    "tlc59116"
+  ],
+  "author": "Nico De Witte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BioBoost/rgbledbar/issues"
+  },
+  "homepage": "https://github.com/BioBoost/rgbledbar#readme"
+}
